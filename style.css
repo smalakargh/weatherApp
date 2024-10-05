@@ -36,11 +36,7 @@ body {
     font-size: .8em;
     margin-bottom: 20px;
 }
-/* span.spn1{
-    /* color: #77d723; */
-    font-family: "Mochiy Pop One", sans-serif;
-
-} */
+ 
 span.spn2{
     font-weight: 600;
     color: red;
@@ -81,4 +77,14 @@ span.spn2{
     margin-top: 15px;
     width: 50px; /* Adjust size as needed */
     height: 50px;
+}
+#temperature{
+    font-size: 2.8rem;
+    font-weight: 600;
+    color: rgb(0, 166, 255);
+}
+#description{
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 0.9rem;
 }
